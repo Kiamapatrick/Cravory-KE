@@ -1,6 +1,5 @@
 # Cravory-KE
 
-
 A modern, responsive food delivery and restaurant discovery web application built with vanilla HTML, CSS, and JavaScript.
 
 ## Overview
